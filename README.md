@@ -10,4 +10,16 @@ This GUI application allows you to display **Wii U** and **Nintendo Switch** gam
 <div align="center">
     <p><img src="https://github.com/MarioSilvaGH/Rich-Presence-U/blob/master/Assets/demo_modes.gif" alt="" /></p>
 </div>
+
+### Credits
+
+**Program & Design:**
+Mario Silva (Nin★)
+
+**RPC Wrapper:**
+Aouab
+
+**Nintendo Switch icons:**
+Majesty
  
+
