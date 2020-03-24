@@ -8,7 +8,7 @@
 [link-discord]: https://discord.gg/wZGW8DZ
 [link-release]: https://github.com/MarioSilvaGH/Rich-Presence-U/releases
 
-<div align="center"><img alt="Logo" src="https://github.com/MarioSilvaGH/Rich-Presence-U/raw/master/Assets/logo_monod.png" width="90%"></div>
+<p align="center"><img alt="Logo" src="https://github.com/MarioSilvaGH/Rich-Presence-U/raw/master/Assets/logo_monod.png" width="90%"></p>
 
 This GUI application allows you to display **Wii U** and **Nintendo Switch** games on *Discord* with predefined or custom state. There are over 100 softwares from both platforms included. 
 
