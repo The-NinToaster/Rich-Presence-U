@@ -807,6 +807,14 @@
             }
         },
         {
+            "Key": "50d95859-4f83-40f5-8397-0c100b358417",
+            "Value": {
+                "id": "940414e5-2684-4bbb-a25f-2a6d0bbaa670",
+                "resourcePath": "datafiles_yy\\switch\\091.jpg.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "5131a66f-ea19-4c0b-b3ea-5498038f2b4f",
             "Value": {
                 "id": "d351416f-136e-48c1-9506-82ee1af3c01a",
@@ -1834,7 +1842,7 @@
             "Key": "cbc4d63b-5e05-413a-ba31-7254e703212e",
             "Value": {
                 "id": "2e81503d-3569-45f9-abbc-ff323b9e5fa3",
-                "resourcePath": "datafiles_yy\\status.ini.yy",
+                "resourcePath": "datafiles_yy\\preset_details.ini.yy",
                 "resourceType": "GMIncludedFile"
             }
         },

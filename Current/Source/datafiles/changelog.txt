@@ -1,3 +1,12 @@
+[0.4.3] ------------------------
+
+- Added Switch title: 'Animal Crossing: New Horizons'
+- Added preset_details.ini: "Single player", "Multiplayer" and "Online" status can be changed through this file. Titles (Games) that have preset details will override this file
+- Changed some prefixes for titles with preset details 
+- Fixed title 062 (Wii U mode)
+- New icon for Windows 10
+- Minor visual changes
+
 [0.4.2] ------------------------
 
 - Now you can pause the Rich Presence sate without closing the app

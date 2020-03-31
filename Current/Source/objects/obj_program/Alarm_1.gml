@@ -26,7 +26,7 @@ if(richpresence_on == 1){
 	}
 	else{
 
-		show_message("Client ID incorrect or missing, make sure that the 'titles.ini' is located in the program path.")
+		show_message("CLIENT_ID is incorrect or missing, make sure that the 'titles.ini' is located on the specified platform path. ('wiiu', 'switch'...)")
 		exit;
 	}
 }
@@ -60,7 +60,7 @@ else{
 	//SE predefinição de status for direcionada apenas ao titulo...
 	if(gamelist_preset[global.rpc_gameindex] == "[TITLE]"){
 		
-		//Apenas incluir descrição customizada (se existir)
+		//Apenas incluir descrição customizada como título (se existir)
 		if(global.rpc_statuscustom != "")
 			discord_set_details(global.rpc_statuscustom);
 		else
@@ -84,7 +84,7 @@ else{
 
 //Icone grande (Jogo) + Versão
 discord_set_image_large(string_add_zeros(global.rpc_gameindex,3));
-discord_set_text_large("Rich Presence U | 0.4.2");
+discord_set_text_large("Rich Presence U - "+string(version));
 
 //Icone pequeno (User ID)
 if(global.rpc_userid != ""){

@@ -24,12 +24,12 @@ This GUI application allows you to display **Wii U** and **Nintendo Switch** gam
 ### <div align="center">Downloads</div>
 
 #### Rich Presence U
-Version: **0.4.2** | ``23/11/2019``
+Version: **0.4.3** | ``31/03/2020``
 
 - :ballot_box_with_check:  Rich Presence U (32bit)
 - :ballot_box_with_check:  Changelog
 
-[:arrow_down: **Download**](https://github.com/MarioSilvaGH/Rich-Presence-U/releases/download/0.4.2/RichPresenceU_042.zip) (GitHub)
+[:arrow_down: **Download**](https://github.com/MarioSilvaGH/Rich-Presence-U/raw/master/Current/Rich_Presence_U.zip)
 
 ### <div align="center">References</div>
 

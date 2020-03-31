@@ -5,7 +5,7 @@ draw_set_font(fnt_default);
 if(global.rpc_platform == 0){
 	
 	//Wii U
-	window_set_caption("Rich Presence U - Wii U mode");
+	window_set_caption("Rich Presence U - Wii U");
 	if(uicolor_animation > 0.05)
 		uicolor_animation -= 0.05;
 	else
@@ -14,7 +14,7 @@ if(global.rpc_platform == 0){
 else{
 	
 	//Nintendo Switch
-	window_set_caption("Rich Presence U - Nintendo Switch mode");
+	window_set_caption("Rich Presence U - Nintendo Switch");
 	if(uicolor_animation < 1-0.05)
 		uicolor_animation += 0.05;
 	else
@@ -310,7 +310,7 @@ else{
 		
 		//Abrir servidor no Discord
 		if(point_in_rectangle(mouse_x,mouse_y,129,14,129+433,14+92))
-			url_open("https://discordapp.com/invite/wZGW8DZ");
+			url_open("https://ninstars.blogspot.com/");
 	
 		//Fechar
 		if(point_in_rectangle(mouse_x,mouse_y,665,22,665+32,22+32))
