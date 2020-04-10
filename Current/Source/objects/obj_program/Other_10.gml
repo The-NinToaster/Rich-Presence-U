@@ -3,6 +3,8 @@
 //Plataforma
 if(global.rpc_platform == 1)
 	target_tiltes = "switch";
+else if(global.rpc_platform == 2)
+	target_titles = "3ds";
 else
 	target_tiltes = "wiiu";
 

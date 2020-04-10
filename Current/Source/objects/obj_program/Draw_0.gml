@@ -103,7 +103,7 @@ else
 
 draw_sprite(spr_status_option,1+_locked,_mode,143);
 	
-//Nintendo Network ID / Swich Friend Code
+//Nintendo Network ID / Friend Code
 var _userid;
 if(typing_userid == 1)
 &&(string_length(global.rpc_userid) < 16)
@@ -112,10 +112,12 @@ if(typing_userid == 1)
 else{
 
 	//Formatação
-	if(global.rpc_platform == 0)
-		_userid =  global.rpc_userid;
+	if(global.rpc_platform == 1)
+		_userid = digits_to_friendcode(global.rpc_userid); //3DS FC
+	else if(global.rpc_platform == 2)
+		_userid = "SW-"+digits_to_friendcode(global.rpc_userid); //Switch FC
 	else
-		_userid = digits_to_switchfc(global.rpc_userid);
+		_userid =  global.rpc_userid; //NNID
 }
 
 //Exibir

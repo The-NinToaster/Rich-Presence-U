@@ -31,235 +31,11 @@
     },
     "resources": [
         {
-            "Key": "00989131-e593-453f-b909-e78edfcc455b",
-            "Value": {
-                "id": "e31df4ad-80ca-49fc-9255-062a15869773",
-                "resourcePath": "views\\00989131-e593-453f-b909-e78edfcc455b.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "01653e55-554e-4d40-ad61-d2eeff61bd76",
-            "Value": {
-                "id": "c0c0ba41-f15e-492f-8848-af8f1a9254b2",
-                "resourcePath": "datafiles_yy\\wiiu\\044.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "01f81ff0-b4b9-4213-aecb-c4846f237495",
-            "Value": {
-                "id": "4b91a937-94b7-4d13-b0a9-9ee0cf52e4df",
-                "resourcePath": "datafiles_yy\\switch\\086.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "029bde9f-b44d-4a7f-8479-30825f3c0868",
-            "Value": {
-                "id": "52526f0a-f37a-43cd-9522-5cf8f2304ea8",
-                "resourcePath": "datafiles_yy\\wiiu\\136.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "03c02e76-58f6-498c-9038-cbba458aed40",
-            "Value": {
-                "id": "b3fa8db8-f0fc-4ce9-8e0d-dd786db828e3",
-                "resourcePath": "datafiles_yy\\wiiu\\120.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "0434a0aa-b252-45d6-b94a-67dae9c4cccd",
-            "Value": {
-                "id": "7a5a7ddf-a7bb-4953-b158-9be9ae9d1971",
-                "resourcePath": "datafiles_yy\\switch\\036.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "044adeb5-e06e-4733-a5ee-f9759bc17a49",
-            "Value": {
-                "id": "6e37a711-e336-4bbd-a19b-aa91110b2f91",
-                "resourcePath": "datafiles_yy\\wiiu\\027.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "065a46bd-768f-4312-aa1e-9ac91fc44ddc",
-            "Value": {
-                "id": "df630685-de8b-46f5-a86a-c0a03f367f89",
-                "resourcePath": "datafiles_yy\\switch\\076.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "06e55cc1-ad35-425b-92b3-990afb7cd36a",
-            "Value": {
-                "id": "2c32401d-1847-41fa-a16f-c658b30449d5",
-                "resourcePath": "datafiles_yy\\wiiu\\068.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "0882d656-f133-4516-b4a2-568a67c303b3",
-            "Value": {
-                "id": "f37d455f-f21d-4cad-8b0b-59844a29e1bd",
-                "resourcePath": "datafiles_yy\\switch\\042.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "08f9cbfa-8d96-4495-adb4-947fa38556ff",
-            "Value": {
-                "id": "08ea1023-ad4c-4d83-b1a6-1315cabd5b68",
-                "resourcePath": "datafiles_yy\\wiiu\\106.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "09b8863d-657b-404c-8939-1ed8c1162c14",
-            "Value": {
-                "id": "378a67c3-9150-4198-add3-30de28303011",
-                "resourcePath": "datafiles_yy\\wiiu\\069.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "09bfe51c-941d-49e8-8990-ca0c88ff3ec2",
-            "Value": {
-                "id": "ccfdd6d5-6459-40b4-805b-79fe05e84108",
-                "resourcePath": "datafiles_yy\\switch\\020.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "09ccb3e9-5f49-4438-95bb-5bd75626d769",
-            "Value": {
-                "id": "bee9469d-ffca-4b1c-966f-3ef1a1647551",
-                "resourcePath": "datafiles_yy\\wiiu\\029.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "09f82269-4e79-42d5-b73f-e56f788f780e",
-            "Value": {
-                "id": "4f7944cf-3677-4a8d-a551-05d927383838",
-                "resourcePath": "datafiles_yy\\wiiu\\122.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "0e2ae76b-1216-456f-834d-627f132f9756",
-            "Value": {
-                "id": "b859f443-ff1a-4ce7-a01d-f5f83cf69669",
-                "resourcePath": "datafiles_yy\\switch\\titles.ini.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "0e38fea5-2f42-44f8-b844-273f05ad70ed",
-            "Value": {
-                "id": "c13b70ba-e4bf-446b-baba-675df2a3bd1a",
-                "resourcePath": "datafiles_yy\\switch\\046.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "0e4b64e9-039f-4b72-ae71-a59659ea6974",
-            "Value": {
-                "id": "26dc7328-e9ba-4565-a119-af457ec3cedf",
-                "resourcePath": "datafiles_yy\\switch\\053.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "0ee141f4-27b2-47c1-be2c-a3273513ac57",
-            "Value": {
-                "id": "ac73b025-f5c7-4748-bfcd-4cb4fa0a65cb",
-                "resourcePath": "datafiles_yy\\wiiu\\071.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "1000353c-d822-464e-9045-ae25c08d9d5b",
-            "Value": {
-                "id": "d5241666-f5e6-4f8a-89e2-92432753c07c",
-                "resourcePath": "datafiles_yy\\wiiu\\137.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "1074bbfd-8bd9-4809-aa15-a4cd9e623ad9",
-            "Value": {
-                "id": "6bd1182b-a2ae-4b34-8074-8c8e44b6775f",
-                "resourcePath": "datafiles_yy\\wiiu\\001.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "10c672e2-e8c0-46f2-a378-3bd93243c105",
-            "Value": {
-                "id": "b56b2207-7fd8-4399-ac13-9fdd6c6d2330",
-                "resourcePath": "datafiles_yy\\wiiu\\026.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "11010d96-7052-48d3-98ba-b69a7384c1ca",
-            "Value": {
-                "id": "e9ca7047-9ce2-4d12-a077-af246c4b9136",
-                "resourcePath": "datafiles_yy\\wiiu\\024.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "11216b59-f926-4bfc-b24a-5a1622868039",
-            "Value": {
-                "id": "e812935a-cbc1-4af6-8a6b-1edc167ee606",
-                "resourcePath": "datafiles_yy\\wiiu\\135.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "116d29a0-8590-40bb-9830-1b81407c9100",
-            "Value": {
-                "id": "c48479d2-f474-4ec1-a55b-42950d6565cd",
-                "resourcePath": "datafiles_yy\\switch\\026.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "123f0021-d546-4144-9440-3a7fb5d2f9ca",
-            "Value": {
-                "id": "30a489b4-2265-4793-87d9-ec1e41f67034",
-                "resourcePath": "datafiles_yy\\switch\\041.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "12765963-7d2b-445f-bd98-f7aa41d33d1f",
             "Value": {
                 "id": "498b9730-854a-4612-9bdb-0f6d4a87744c",
                 "resourcePath": "views\\12765963-7d2b-445f-bd98-f7aa41d33d1f.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "13116268-9129-48cd-8c19-57acfe4cc7cb",
-            "Value": {
-                "id": "7df5b5ff-74c4-454d-b17a-576f523ee9f3",
-                "resourcePath": "datafiles_yy\\switch\\028.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "14139747-fc07-4348-84fb-4e9ca1315a5f",
-            "Value": {
-                "id": "a0664291-e532-4424-8d2b-74b8765c07d0",
-                "resourcePath": "datafiles_yy\\wiiu\\023.jpg.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -271,179 +47,11 @@
             }
         },
         {
-            "Key": "1528eef6-f6b7-4e08-86d2-1a2d97bcd8ad",
-            "Value": {
-                "id": "9b916ac8-2f17-48c8-896c-42cba05e22b2",
-                "resourcePath": "datafiles_yy\\wiiu\\130.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "15916b25-e38f-48f1-ac6b-6eb444a5f779",
-            "Value": {
-                "id": "c42762d4-6f5a-49ce-891a-3c3b10bdbdbc",
-                "resourcePath": "datafiles_yy\\wiiu\\101.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "15c4dfb5-4936-4d38-aa2d-052705126377",
-            "Value": {
-                "id": "807e0daa-7193-4602-81cc-49ba8b1663c4",
-                "resourcePath": "datafiles_yy\\switch\\063.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "17251827-3ac6-4700-942a-2053781370ef",
-            "Value": {
-                "id": "f57c0cd1-da66-448e-a172-def097a72cc3",
-                "resourcePath": "datafiles_yy\\switch\\031.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "19ddce3c-5383-4681-835c-ddbc5eae4255",
             "Value": {
                 "id": "ff3a81b2-c917-4023-b83e-3c1c80a9d0bf",
                 "resourcePath": "sprites\\spr_elapsedtime\\spr_elapsedtime.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "1c2082cf-0081-4ad2-ba7c-83c27416c1ed",
-            "Value": {
-                "id": "58e7940e-b4de-4643-bd7c-94987b1bd1e9",
-                "resourcePath": "datafiles_yy\\switch\\029.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "1cfab2c1-c02a-4823-bbc3-07c5c3a4d6bd",
-            "Value": {
-                "id": "c643195b-d7b5-4ac0-bc64-ef45bd7a8114",
-                "resourcePath": "datafiles_yy\\wiiu\\046.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "1eb330fe-38cf-4419-a9a2-78ec40e37113",
-            "Value": {
-                "id": "1200d2d0-6e2d-4466-844a-51935bcde91a",
-                "resourcePath": "datafiles_yy\\switch\\023.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "1ef32ef3-d078-4b9a-82af-67e674076dcc",
-            "Value": {
-                "id": "acb9ee77-d908-4c1f-b17a-daec9f2244b7",
-                "resourcePath": "datafiles_yy\\wiiu\\113.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "1f8d5a32-7675-45e0-ae6c-85f37af2e4dd",
-            "Value": {
-                "id": "010a2d5f-21e9-4c4c-b160-9ddb50bc5349",
-                "resourcePath": "datafiles_yy\\wiiu\\103.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "213b80a2-6332-45bc-9efa-70f8a9a7e606",
-            "Value": {
-                "id": "dcbebf7b-e3c8-4b63-b07a-7aa470af679d",
-                "resourcePath": "datafiles_yy\\wiiu\\146.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "214ec926-0e96-46b8-8b81-ee160cec5ac7",
-            "Value": {
-                "id": "5961116c-92fb-49e9-9f16-757ff64df545",
-                "resourcePath": "datafiles_yy\\wiiu\\030.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "21a27aaa-7b36-4641-a195-6c16ef9f24b6",
-            "Value": {
-                "id": "e9b9f4fc-9b0b-4e24-b609-19fb17c22626",
-                "resourcePath": "datafiles_yy\\switch\\058.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "21add070-5fc4-4d35-9386-ead977b7d7e0",
-            "Value": {
-                "id": "5cf6d28a-102a-4441-abbc-6fd4f131246b",
-                "resourcePath": "datafiles_yy\\wiiu\\022.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "21d91906-378a-4f12-94ac-dbd78e723e97",
-            "Value": {
-                "id": "ff36da57-537c-49b1-9859-aa2846686b66",
-                "resourcePath": "datafiles_yy\\wiiu\\121.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "2215fc10-6211-4a26-aebe-1949c076de0a",
-            "Value": {
-                "id": "5619b0a7-e814-45dc-a780-e4f233bfb58d",
-                "resourcePath": "datafiles_yy\\wiiu\\059.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "2218e880-633f-416d-8bda-0e2ed8b8ebac",
-            "Value": {
-                "id": "c5c23ff2-b595-4050-a9af-25a63699d8eb",
-                "resourcePath": "datafiles_yy\\wiiu\\131.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "222dc285-ba4e-4141-9c72-b2aa6b0273f5",
-            "Value": {
-                "id": "3f64cb5c-ff54-4d0f-a814-7e1be951af72",
-                "resourcePath": "datafiles_yy\\wiiu\\097.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "2395a1d7-a3d2-4a5b-b123-6acb35fbca3f",
-            "Value": {
-                "id": "17ea5456-8f20-4789-a583-14875a036b7f",
-                "resourcePath": "datafiles_yy\\wiiu\\036.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "24c62bcb-15a3-490e-916a-500c394e79da",
-            "Value": {
-                "id": "88bbaf13-f281-41a6-aa2c-4ddd5a549c6e",
-                "resourcePath": "datafiles_yy\\wiiu\\094.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "25461c9c-f3c8-4034-a94f-5b54489fb80c",
-            "Value": {
-                "id": "8f4ea703-103a-4573-b2d5-31d12ad742c7",
-                "resourcePath": "datafiles_yy\\wiiu\\034.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "25481ef0-2f9c-4e0b-b300-8cec46c01865",
-            "Value": {
-                "id": "1a666747-2b25-4e95-aa70-f637b7417ff3",
-                "resourcePath": "datafiles_yy\\switch\\087.jpg.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -455,67 +63,11 @@
             }
         },
         {
-            "Key": "2603813a-82aa-48ae-9ee7-600e1830bfcc",
-            "Value": {
-                "id": "53196959-240b-4cee-8e43-a2bbd48b4e5b",
-                "resourcePath": "datafiles_yy\\wiiu\\050.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "262cd4d4-eb32-4348-be25-0ee8a99ef073",
-            "Value": {
-                "id": "9ebfe8ca-11bf-46f1-bc13-c3f7e9aa52da",
-                "resourcePath": "datafiles_yy\\wiiu\\100.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "2a1fdff9-381c-41a9-9536-181a869cc104",
-            "Value": {
-                "id": "15fc90a6-8f0c-4514-b15c-51de079288e0",
-                "resourcePath": "datafiles_yy\\switch\\064.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "2be557ab-1722-4dab-b971-879f45fa3c78",
             "Value": {
                 "id": "533be0b5-45ce-4b50-b3f5-fcee2524ce13",
                 "resourcePath": "sprites\\spr_gameicon\\spr_gameicon.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "2c3dce3b-cb01-4633-ba4c-31524f67c08c",
-            "Value": {
-                "id": "ce921aa3-bd02-4816-83a7-19d08319bf25",
-                "resourcePath": "datafiles_yy\\wiiu\\054.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "2d0f752e-6862-4a80-ad07-e061634d64a5",
-            "Value": {
-                "id": "afa7aa61-4b50-4117-b8e0-3634b6bd6582",
-                "resourcePath": "datafiles_yy\\wiiu\\010.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "2f202216-105e-412c-8e3e-1123e24ee81d",
-            "Value": {
-                "id": "be0c0e30-c73a-4537-81d9-b011b051e88c",
-                "resourcePath": "datafiles_yy\\wiiu\\083.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "309776d2-94a0-4cdb-af0d-a9994ff5c911",
-            "Value": {
-                "id": "c04cfb7a-50dc-431f-afb4-7a996f5479c3",
-                "resourcePath": "datafiles_yy\\switch\\057.jpg.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -527,19 +79,11 @@
             }
         },
         {
-            "Key": "31ed9ac9-a639-4ad6-878e-80a14116b45c",
+            "Key": "30ffa266-4665-4335-b195-c9add33c97ad",
             "Value": {
-                "id": "66f3ab0d-3e2b-4ecc-93dd-ef15b653180e",
-                "resourcePath": "datafiles_yy\\wiiu\\014.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "323629d0-35f0-42d0-99a1-fc7bd2a26f3b",
-            "Value": {
-                "id": "9e8ed027-afe4-4ea8-ad84-e7b60e26a2ec",
-                "resourcePath": "datafiles_yy\\wiiu\\047.jpg.yy",
-                "resourceType": "GMIncludedFile"
+                "id": "51a09a61-7a83-4ebe-b365-de53a3974721",
+                "resourcePath": "sprites\\spr_appupdate\\spr_appupdate.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -551,51 +95,11 @@
             }
         },
         {
-            "Key": "335bcb89-3979-4ff0-a664-1fd397b8ab54",
-            "Value": {
-                "id": "af548456-3854-4131-bffa-4749f7c3325f",
-                "resourcePath": "datafiles_yy\\switch\\061.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "3396cf99-5b3e-4fd3-811c-0ab5a76df25f",
-            "Value": {
-                "id": "b1b097c5-50d0-41f8-a28d-5b4db0e75688",
-                "resourcePath": "datafiles_yy\\wiiu\\127.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "33bbea54-1f11-43d9-ac53-4f21f952c363",
-            "Value": {
-                "id": "cea2f87a-b435-4f39-840d-45dc1a1d1755",
-                "resourcePath": "datafiles_yy\\wiiu\\007.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "378f17e9-786d-4b23-a395-366f452d8f6a",
             "Value": {
                 "id": "7e6421d5-da49-49fc-8dd4-1d5271011996",
                 "resourcePath": "views\\378f17e9-786d-4b23-a395-366f452d8f6a.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "37d571b4-2406-41f3-b223-0e05ce139955",
-            "Value": {
-                "id": "b066d836-cbdd-4627-a63d-ea489284ce5e",
-                "resourcePath": "datafiles_yy\\switch\\052.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "390af648-84be-412f-a901-856686d278a1",
-            "Value": {
-                "id": "8f7e886b-2473-4a1f-bf91-de514a853d20",
-                "resourcePath": "datafiles_yy\\wiiu\\108.jpg.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -607,187 +111,11 @@
             }
         },
         {
-            "Key": "39d408d3-b7ee-48e9-89a7-33b323548360",
-            "Value": {
-                "id": "5d8a1d2f-a6b0-4c0e-9c91-9b189409d363",
-                "resourcePath": "datafiles_yy\\wiiu\\119.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "3af3c889-d47b-4220-bd17-df9a700bdc4e",
-            "Value": {
-                "id": "76a00781-c49c-4c9e-9765-05a2096d85d6",
-                "resourcePath": "datafiles_yy\\switch\\004.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "3bc14757-f2c2-4ec0-82ed-fd5d5e09a267",
-            "Value": {
-                "id": "07d624bd-a0b7-4176-92a5-c4c0f2e3777c",
-                "resourcePath": "datafiles_yy\\wiiu\\123.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "3bc58882-9ecd-44f3-876a-bed98a64eb90",
-            "Value": {
-                "id": "b6d3ae18-67ae-45a7-8025-505da2916591",
-                "resourcePath": "datafiles_yy\\wiiu\\138.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "3d1e4851-19b5-4012-a6ae-396b7a027bf7",
-            "Value": {
-                "id": "1ce28063-b99d-4854-ad48-e9c88fbdf9db",
-                "resourcePath": "datafiles_yy\\wiiu\\148.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "3defec3b-25ab-43a1-8ac3-0e7c3844e1c4",
-            "Value": {
-                "id": "baf221be-d997-4602-b99e-f59348868181",
-                "resourcePath": "datafiles_yy\\switch\\021.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "3fbd0877-1994-4611-892d-0b8d72caee7e",
-            "Value": {
-                "id": "40923fe4-dbc4-44da-8a29-8a388d7c1134",
-                "resourcePath": "datafiles_yy\\wiiu\\000.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "4006e35e-cae6-4826-b182-7c9fbd99fee0",
-            "Value": {
-                "id": "6d5751f8-dcee-488c-9431-4e73bed0bc3c",
-                "resourcePath": "datafiles_yy\\wiiu\\031.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "43167fc1-bda8-48c7-970f-e00f5aa3c603",
-            "Value": {
-                "id": "d6ee718b-4c47-443a-9d0e-87d75df335cb",
-                "resourcePath": "datafiles_yy\\wiiu\\020.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "438fcf5a-65a8-4039-9d53-6b3d67621fca",
             "Value": {
                 "id": "cb7a0b5f-c403-4eac-af5e-4412b533d86d",
                 "resourcePath": "sprites\\spr_status\\spr_status.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "43a7d08f-f179-4c51-9841-c0444695d0b4",
-            "Value": {
-                "id": "3cd16b66-f70e-4d32-ab4c-fc9c3aef0152",
-                "resourcePath": "datafiles_yy\\wiiu\\134.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "44b5ab99-89a1-41f5-ae79-1029532c54a3",
-            "Value": {
-                "id": "a5009a69-d1b2-40c5-9246-230edbf69d15",
-                "resourcePath": "datafiles_yy\\switch\\013.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "4507de5c-5446-408c-aa98-11201a6ceb4c",
-            "Value": {
-                "id": "1a27ea93-b1a9-472d-99e8-9b8bed9accbb",
-                "resourcePath": "datafiles_yy\\switch\\019.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "459419f5-5d47-40f9-a962-6ef4624a4b85",
-            "Value": {
-                "id": "75a3b01d-f86d-46e4-8813-24e9ea2b7828",
-                "resourcePath": "datafiles_yy\\switch\\075.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "45f59e05-facd-4051-9a06-61585c89ba3c",
-            "Value": {
-                "id": "771594b0-8b3c-41ec-a547-37fe85104911",
-                "resourcePath": "datafiles_yy\\switch\\056.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "47a5ff13-04b5-4dc3-b5b5-4df78252a60d",
-            "Value": {
-                "id": "e3162c44-8705-4f0b-9134-96c641af68fb",
-                "resourcePath": "datafiles_yy\\wiiu\\078.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "49201a90-7a6c-4af3-a60e-cdfa17693ca5",
-            "Value": {
-                "id": "70cbd6bc-18a0-471d-a729-8cc1ec7a4201",
-                "resourcePath": "datafiles_yy\\wiiu\\019.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "49267ff8-a965-42d0-863c-c19bd2b78c5e",
-            "Value": {
-                "id": "47542c17-09b2-460e-a9a7-8bf864475590",
-                "resourcePath": "datafiles_yy\\switch\\032.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "49aab09d-92b4-48de-b2fe-b2face3364c4",
-            "Value": {
-                "id": "a4d725e9-5d30-4954-890f-3bc40245cac4",
-                "resourcePath": "datafiles_yy\\wiiu\\111.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "4c4e530e-d221-41a3-8b6e-2913fda25eb3",
-            "Value": {
-                "id": "b7e96ef4-47c6-4b5b-9bd5-cfc36e906c9e",
-                "resourcePath": "datafiles_yy\\wiiu\\105.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "4c8dba93-6876-4951-bf9e-cc5cce2608d6",
-            "Value": {
-                "id": "1fd7f119-e40e-4e16-bbe2-06ce63daafd2",
-                "resourcePath": "datafiles_yy\\switch\\016.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "4e078102-2c42-46f1-a5f5-2b275e65d917",
-            "Value": {
-                "id": "6808f5c5-4f0c-4f9b-a667-7caab2df7ad5",
-                "resourcePath": "datafiles_yy\\wiiu\\041.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "4f24d5ec-5877-491d-9042-256ec4b50c67",
-            "Value": {
-                "id": "bacecc24-df0d-436c-a5de-75f03f697cfe",
-                "resourcePath": "datafiles_yy\\wiiu\\037.jpg.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -799,67 +127,11 @@
             }
         },
         {
-            "Key": "4fe8fa45-fc4c-4720-929e-8bd3d180b1a4",
-            "Value": {
-                "id": "5e0976c1-d3e0-42cb-9cbf-c9a714170934",
-                "resourcePath": "datafiles_yy\\wiiu\\028.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "50d95859-4f83-40f5-8397-0c100b358417",
-            "Value": {
-                "id": "940414e5-2684-4bbb-a25f-2a6d0bbaa670",
-                "resourcePath": "datafiles_yy\\switch\\091.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "5131a66f-ea19-4c0b-b3ea-5498038f2b4f",
-            "Value": {
-                "id": "d351416f-136e-48c1-9506-82ee1af3c01a",
-                "resourcePath": "datafiles_yy\\switch\\000.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "522bc1c0-66e9-45fb-adce-6d03c9d7cd01",
-            "Value": {
-                "id": "3298bb81-a968-436f-ab4e-b56476fcc361",
-                "resourcePath": "datafiles_yy\\switch\\047.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "527a6243-4de3-4871-a5b5-8c977c2eceb7",
-            "Value": {
-                "id": "2607f6c6-39f2-47bd-ace8-5295450bf289",
-                "resourcePath": "datafiles_yy\\wiiu\\062.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "53627286-3b87-4359-9ed7-02b5fd27087c",
-            "Value": {
-                "id": "e2083650-7036-429e-afaf-3d828508db2d",
-                "resourcePath": "datafiles_yy\\switch\\024.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "540b4fd8-8e78-49af-ab1e-e2e5213a356d",
             "Value": {
                 "id": "ea4eccc4-2bb3-4891-987c-93b92b0a2fed",
                 "resourcePath": "fonts\\fnt_default\\fnt_default.yy",
                 "resourceType": "GMFont"
-            }
-        },
-        {
-            "Key": "5529a1f5-985f-4a32-acef-9e73706f6bfb",
-            "Value": {
-                "id": "e2c0d7d2-de06-474e-a3a0-6452cbf3838d",
-                "resourcePath": "datafiles_yy\\wiiu\\057.jpg.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -871,59 +143,11 @@
             }
         },
         {
-            "Key": "58202ef4-aa52-4fb0-9bcf-ee07aa78c27b",
-            "Value": {
-                "id": "8394692c-fba5-4ca8-a2a0-d3d03b73dbc9",
-                "resourcePath": "datafiles_yy\\wiiu\\144.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "58b3f3a9-4e0d-4eea-9eb5-22aef91a0dd9",
             "Value": {
                 "id": "817f5311-fcb2-47aa-98eb-75999e1cea12",
                 "resourcePath": "views\\58b3f3a9-4e0d-4eea-9eb5-22aef91a0dd9.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "5ae9a6b8-ec99-4873-a555-4b6596e608c3",
-            "Value": {
-                "id": "304ffa9e-0762-42a3-9d54-ffaf6102abdc",
-                "resourcePath": "datafiles_yy\\switch\\054.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "5b10ed01-5cda-42b2-b6e3-5d15549004e7",
-            "Value": {
-                "id": "b96d5522-d6a6-49c2-9d5d-fca2a5dac3d2",
-                "resourcePath": "datafiles_yy\\switch\\003.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "5b52e99c-9943-41c4-9c5c-65abd5235e9c",
-            "Value": {
-                "id": "9bd5ef77-994f-4e11-8094-79c04c65b63a",
-                "resourcePath": "datafiles_yy\\switch\\040.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "5f116988-f0fd-4fe8-9d11-d44dcad1e622",
-            "Value": {
-                "id": "85842a67-8d83-485b-b525-68a71ed962f2",
-                "resourcePath": "datafiles_yy\\wiiu\\080.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "5f478d89-f5ec-4f9c-85ac-0c7d3c93e591",
-            "Value": {
-                "id": "ab4b81d4-5e5f-47dd-a38f-001f93a9e2ea",
-                "resourcePath": "datafiles_yy\\wiiu\\093.jpg.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -935,51 +159,11 @@
             }
         },
         {
-            "Key": "62a81d2c-a423-43c0-b7e6-ac82fabbd218",
-            "Value": {
-                "id": "de0e006b-aad6-4837-9b4c-38d76e3b1a47",
-                "resourcePath": "datafiles_yy\\wiiu\\133.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "62afc6f4-609c-4e27-a0c6-4712ffab2963",
-            "Value": {
-                "id": "352ea51a-7c80-45c9-9b5d-bc92c1b48f2c",
-                "resourcePath": "datafiles_yy\\wiiu\\033.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "6305c836-825e-4fa1-ace9-37f1eec7d3b2",
-            "Value": {
-                "id": "8765c1c8-ad38-4923-8c19-24c005bb451f",
-                "resourcePath": "datafiles_yy\\wiiu\\060.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "650d664b-03bc-4cec-baa6-54d3eb19778f",
-            "Value": {
-                "id": "c74f1f09-fac0-4bac-b552-0883f8aff95a",
-                "resourcePath": "datafiles_yy\\switch\\038.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "65d08eda-253f-412a-878e-ea2e03339289",
             "Value": {
                 "id": "26b281d3-1698-4d8a-aa56-cf5c045b1383",
                 "resourcePath": "views\\65d08eda-253f-412a-878e-ea2e03339289.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "65d67167-f101-470f-bb45-ceb8e5ae6d5a",
-            "Value": {
-                "id": "215c642b-2849-4418-be39-e0335b837ecf",
-                "resourcePath": "datafiles_yy\\wiiu\\145.jpg.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -991,251 +175,11 @@
             }
         },
         {
-            "Key": "660b19f1-7323-4402-a304-1eccd64b6647",
+            "Key": "7621d6fb-4a2e-4674-9165-173318daf316",
             "Value": {
-                "id": "9302d7d0-43dd-47b4-91db-60c2d4cf892d",
-                "resourcePath": "datafiles_yy\\switch\\043.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "670770c2-e2e3-4d9c-8307-3d901e99c8bf",
-            "Value": {
-                "id": "1dacb29f-7aa9-42cc-8dcb-d5f11f4db533",
-                "resourcePath": "datafiles_yy\\wiiu\\075.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "677e6c0f-c442-4ef9-b18e-2a6344c2a7d8",
-            "Value": {
-                "id": "9af88dd0-33bf-4fab-8cfb-d7c83d409e7e",
-                "resourcePath": "datafiles_yy\\wiiu\\116.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "68857802-be74-4b1c-85a1-e721bc88f5ba",
-            "Value": {
-                "id": "66e59413-9087-45ee-8b23-a835b3e4c9ba",
-                "resourcePath": "datafiles_yy\\wiiu\\008.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "68c76adb-69d1-455e-8f8b-cb0a88af9c59",
-            "Value": {
-                "id": "3c20dfdc-3287-497e-a162-1c4d0a588418",
-                "resourcePath": "datafiles_yy\\wiiu\\143.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "6b45c20d-da83-46fb-97a5-5d2671d8811d",
-            "Value": {
-                "id": "0bd036b7-49ce-42cc-bbb8-e6620328144a",
-                "resourcePath": "datafiles_yy\\switch\\080.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "6be35125-182b-4641-9317-fb1aa69ab268",
-            "Value": {
-                "id": "f13325cc-cbf0-4fd6-bb36-9a218314a005",
-                "resourcePath": "datafiles_yy\\switch\\037.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "6e78c850-407e-4dd4-a929-ff6c4e9150f1",
-            "Value": {
-                "id": "d3300ab8-ece3-4afb-8c02-56d41734ecae",
-                "resourcePath": "datafiles_yy\\switch\\048.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "6f36503b-6c08-4ce9-82a9-a4abb0ba5f62",
-            "Value": {
-                "id": "1f00fb56-2176-4da3-9b29-4458ecaf315b",
-                "resourcePath": "datafiles_yy\\wiiu\\114.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "71648db5-e368-4725-9049-ac87861fdc92",
-            "Value": {
-                "id": "886323e2-3941-44d0-9f02-4a4e63f2ed63",
-                "resourcePath": "datafiles_yy\\wiiu\\098.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "7190b15b-8829-4a21-9697-b1130f6557c4",
-            "Value": {
-                "id": "fcd2417d-cd8a-42b2-a90c-791d1197bb68",
-                "resourcePath": "datafiles_yy\\wiiu\\042.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "72540418-56ce-49cc-b7c7-008ae320c406",
-            "Value": {
-                "id": "bfed1c26-c156-46ac-8e75-cc90f0e4ff9b",
-                "resourcePath": "datafiles_yy\\wiiu\\049.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "73114a9c-afd8-4ed1-ab79-a7e5a8ed543c",
-            "Value": {
-                "id": "362ba44e-7027-49af-aaf1-ce5481c079e0",
-                "resourcePath": "datafiles_yy\\wiiu\\079.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "7383e8cc-8a58-4241-8062-32527c0bf545",
-            "Value": {
-                "id": "e1040575-6d89-45d1-88bd-be704bab03b0",
-                "resourcePath": "datafiles_yy\\switch\\070.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "746b642b-2d4f-4fe2-a394-d31d8f4ab1ca",
-            "Value": {
-                "id": "796e6f5d-934e-4c20-b99e-40c59719fb20",
-                "resourcePath": "datafiles_yy\\wiiu\\102.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "75d32011-cb8e-47b8-98df-fe26b600aecb",
-            "Value": {
-                "id": "7d0751e6-c737-455c-b238-01529c78aac4",
-                "resourcePath": "datafiles_yy\\switch\\074.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "7678b46b-5d12-49a8-9573-e1294f7f0522",
-            "Value": {
-                "id": "a667af78-f8db-400d-a60a-ecd2c49250b5",
-                "resourcePath": "datafiles_yy\\wiiu\\017.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "777f3141-705b-413f-ab65-b0bf7fb7187a",
-            "Value": {
-                "id": "0c54076f-e97d-4b6b-a5de-1d591f0801d2",
-                "resourcePath": "datafiles_yy\\switch\\014.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "7abcd758-7844-4e19-90bf-af348f883d01",
-            "Value": {
-                "id": "3d80da98-d0dc-4bd7-b78f-57fd485a4d52",
-                "resourcePath": "datafiles_yy\\wiiu\\090.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "7ad5edc5-8919-4caa-997b-87cc63a8b4a9",
-            "Value": {
-                "id": "901132cc-9680-48f9-8406-020ae7d0cef6",
-                "resourcePath": "datafiles_yy\\wiiu\\003.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "7bdd59ec-194b-45f7-9c40-bf4eebe054b1",
-            "Value": {
-                "id": "80d2b16c-ea8f-4e20-8c89-af53666cadd7",
-                "resourcePath": "datafiles_yy\\wiiu\\073.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "7caa0756-28b5-453c-9bf1-752c5f2d39c3",
-            "Value": {
-                "id": "b7813900-e9cc-48a1-9cec-43998b46c21b",
-                "resourcePath": "datafiles_yy\\wiiu\\063.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "7d45437c-15ff-43a6-9f7c-6b84b757418f",
-            "Value": {
-                "id": "3c2c404c-ce2f-4bc0-96bb-3c387ce9f06f",
-                "resourcePath": "datafiles_yy\\switch\\068.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "801795c3-f78b-4409-957e-b7716eb5250a",
-            "Value": {
-                "id": "8016acf9-a14f-474d-8dcb-6cefa15ccdd4",
-                "resourcePath": "datafiles_yy\\wiiu\\132.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "801ffd9d-c54e-4ec0-a8e2-a3a906a7ea9a",
-            "Value": {
-                "id": "5cab6faf-427d-47ca-ae9e-fb427902c810",
-                "resourcePath": "datafiles_yy\\switch\\077.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "80333f10-b9d1-4f8f-acff-3fa1b388aedd",
-            "Value": {
-                "id": "d20e9f01-be59-4c6f-9aaa-6eefe65fb548",
-                "resourcePath": "datafiles_yy\\switch\\030.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "8060b4b3-b7ee-4300-a5aa-323098f9a0d4",
-            "Value": {
-                "id": "6472e338-5ca2-4af9-a3ac-f8a6d7ac85e8",
-                "resourcePath": "datafiles_yy\\wiiu\\032.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "80652619-8d4c-46b9-9745-fead42e0ee1c",
-            "Value": {
-                "id": "a8582462-31b4-46d5-896c-dbe519d4e772",
-                "resourcePath": "datafiles_yy\\wiiu\\056.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "80eacdda-08a6-4d24-ad57-482d75078b6e",
-            "Value": {
-                "id": "e334f8ad-0cd2-40fb-a16d-59cea477640d",
-                "resourcePath": "datafiles_yy\\switch\\059.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "80f40387-29e1-4d2f-8250-7465ed84e1d3",
-            "Value": {
-                "id": "e1f8750e-4a35-4310-8cb3-f28f646e3161",
-                "resourcePath": "datafiles_yy\\switch\\050.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "8377e1d5-4bb2-4aaa-976a-8e1736e36cea",
-            "Value": {
-                "id": "b0c39c85-f0be-442f-a22f-e3e78afc45fc",
-                "resourcePath": "datafiles_yy\\wiiu\\070.jpg.yy",
-                "resourceType": "GMIncludedFile"
+                "id": "02631b91-c104-4598-9d4c-51f3cb649993",
+                "resourcePath": "sprites\\spr_platforms\\spr_platforms.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1247,147 +191,11 @@
             }
         },
         {
-            "Key": "855658e7-1aa8-432b-982e-959938ed7a43",
-            "Value": {
-                "id": "16167199-db94-416e-acb9-ce24b5882c32",
-                "resourcePath": "datafiles_yy\\wiiu\\104.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "857f9295-53a9-44a3-a990-8a9a6d528ee0",
-            "Value": {
-                "id": "5a706fcc-0277-45ce-86dd-ab492556e114",
-                "resourcePath": "datafiles_yy\\wiiu\\089.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "85b68f01-176a-4517-b04d-d1154a364091",
-            "Value": {
-                "id": "04a66b6d-2ba1-4897-86a5-15bb1c095909",
-                "resourcePath": "datafiles_yy\\wiiu\\095.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "865c3deb-4d36-4068-99be-1e8ac10ad8fa",
-            "Value": {
-                "id": "fc184bb2-624a-49fc-ba46-25363cc2c9e9",
-                "resourcePath": "datafiles_yy\\switch\\079.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "866b7c5b-dcd0-4c2e-bccb-720ff37b0e92",
-            "Value": {
-                "id": "fab0433b-0127-488e-a402-24eba905f2d8",
-                "resourcePath": "datafiles_yy\\switch\\062.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "86706603-6e12-41b6-83e3-28fad37b985c",
-            "Value": {
-                "id": "4cae783a-ff5a-446c-85d7-7b463a4a5f9e",
-                "resourcePath": "datafiles_yy\\wiiu\\011.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "8bd0cf4b-3061-4e61-964b-f20ae13e2d6a",
-            "Value": {
-                "id": "a804c824-71ef-4860-85c0-816b9b85ff82",
-                "resourcePath": "datafiles_yy\\switch\\078.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "8d1c7937-7f0a-4dc5-b8fe-ba2e6ee4501a",
-            "Value": {
-                "id": "d27cf171-3446-4e13-bfc2-42b73b124c25",
-                "resourcePath": "datafiles_yy\\wiiu\\072.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "8d6e3332-38aa-41b9-a0c3-cae8a0ef796e",
-            "Value": {
-                "id": "529b0192-fc0d-4076-bddd-b34de21f08eb",
-                "resourcePath": "datafiles_yy\\wiiu\\125.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "8d9cee2f-e684-4bd3-aa2a-6f1b920c1bd1",
-            "Value": {
-                "id": "dc537f7e-caa4-40e8-a375-f658238597e8",
-                "resourcePath": "datafiles_yy\\wiiu\\021.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "8e8e70fd-dc6d-4785-8707-5bd1a0f55954",
-            "Value": {
-                "id": "e84504c1-4b28-4268-a061-9a0471509959",
-                "resourcePath": "datafiles_yy\\wiiu\\084.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "8e9127e9-e917-47bd-8567-474d80c39d9a",
-            "Value": {
-                "id": "473aaeb0-b34b-4acb-ab04-70496a1d3210",
-                "resourcePath": "datafiles_yy\\wiiu\\124.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "8f08a35f-34d0-4b5d-8765-5cdd6593cf0b",
             "Value": {
                 "id": "4a2e548a-8f9d-45e0-b0a5-a2ef616804c3",
                 "resourcePath": "views\\8f08a35f-34d0-4b5d-8765-5cdd6593cf0b.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "8f33c437-fd7b-4d01-af82-4aa192ab4461",
-            "Value": {
-                "id": "e008ad82-2a6c-4265-a918-94bd302ca169",
-                "resourcePath": "datafiles_yy\\wiiu\\118.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "8f9f38fc-538a-400b-adfc-ca69ffe7bd4f",
-            "Value": {
-                "id": "4d196e0d-9d53-40d8-9be3-c025abb78419",
-                "resourcePath": "datafiles_yy\\switch\\008.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "929f1428-a4f2-4e20-af8b-186ed23ce34b",
-            "Value": {
-                "id": "3951f7c7-61ca-4560-9fe6-e5b748a41c36",
-                "resourcePath": "datafiles_yy\\switch\\005.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "9672ff20-be6b-450b-b596-78650dbd7a19",
-            "Value": {
-                "id": "1c1393d0-3376-4c06-aab8-3df6d353ffd2",
-                "resourcePath": "datafiles_yy\\switch\\025.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "974c9c53-4e3a-4261-829d-cd6ce621ea2d",
-            "Value": {
-                "id": "222cc9c6-ffab-49ad-b3e6-55b959b29300",
-                "resourcePath": "datafiles_yy\\wiiu\\025.jpg.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -1399,14 +207,6 @@
             }
         },
         {
-            "Key": "9a118f92-36ca-4a5e-b9f2-d8b51604dac6",
-            "Value": {
-                "id": "64cdda9a-f848-4dcf-8157-6145782a1f0b",
-                "resourcePath": "datafiles_yy\\switch\\044.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "9ad2f019-f9a2-462e-870b-aeab257e458a",
             "Value": {
                 "id": "8d7eb3f7-824b-40c5-955b-8eb533b0661e",
@@ -1415,138 +215,10 @@
             }
         },
         {
-            "Key": "9b14f7da-d702-46a1-b124-d75f59211027",
-            "Value": {
-                "id": "24ddcf27-b56a-414d-ae84-b69fe464d671",
-                "resourcePath": "datafiles_yy\\switch\\033.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "9cf5e078-0610-4624-9080-c3da33bb72d6",
-            "Value": {
-                "id": "e9d13fe9-1cdc-4cec-9786-36b400d63779",
-                "resourcePath": "datafiles_yy\\wiiu\\087.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "9d0f069c-ef1c-4502-880a-39919f7abd51",
-            "Value": {
-                "id": "0bb57fe0-c741-416f-9507-f12b81f094cd",
-                "resourcePath": "datafiles_yy\\wiiu\\067.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "9fd2490b-eeda-404a-bdf0-bdbb15b972e5",
-            "Value": {
-                "id": "ea8c41fa-f3e5-472d-8910-bdac20f098dc",
-                "resourcePath": "datafiles_yy\\switch\\035.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "a01ef5aa-d6f0-49a2-a2f5-be38595e5b56",
             "Value": {
                 "id": "deeb9754-fd64-40b1-ad55-a081ea3218b7",
                 "resourcePath": "datafiles_yy\\discord_rich_presence.dll.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "a0d2ca5e-dc5d-4251-b73b-e4f45015596a",
-            "Value": {
-                "id": "bc0cebb6-6a58-4524-ad39-b7cdf5ef4119",
-                "resourcePath": "datafiles_yy\\switch\\001.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "a12f58f9-9786-455f-9a90-2f18e937d814",
-            "Value": {
-                "id": "f0fea012-c2ad-4f04-b587-11c08bd13022",
-                "resourcePath": "datafiles_yy\\wiiu\\142.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "a16e49d8-c48d-4d66-a936-8504d66d4f88",
-            "Value": {
-                "id": "a734061d-d201-44f5-8ed9-e30e2dea22af",
-                "resourcePath": "datafiles_yy\\wiiu\\043.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "a1c1c671-9030-428b-b3f8-057992452ee9",
-            "Value": {
-                "id": "eeeb57a6-0bca-4fa5-945a-d3b969665095",
-                "resourcePath": "datafiles_yy\\wiiu\\061.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "a1cfb5f9-c771-4ad8-bca8-20ebd96775e7",
-            "Value": {
-                "id": "c6e45d90-9710-4f67-b61d-73f716a169cd",
-                "resourcePath": "datafiles_yy\\wiiu\\055.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "a2b6d70c-3b92-4036-917b-b58924ba1d38",
-            "Value": {
-                "id": "6fc1025b-1c0f-4106-82d2-e35f4585ed5d",
-                "resourcePath": "datafiles_yy\\switch\\011.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "a54519af-05ca-4b43-ab53-40ca0d1d7247",
-            "Value": {
-                "id": "c485c2df-a703-4efd-8fe7-5b699ffdecb1",
-                "resourcePath": "datafiles_yy\\wiiu\\064.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "a566862c-1e57-492e-ba04-4a3ba07364a9",
-            "Value": {
-                "id": "88b7a2cd-5de2-4805-887a-76992b242144",
-                "resourcePath": "scripts\\digits_to_switchfc\\digits_to_switchfc.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "a5c70abc-87a7-4a57-8352-8fde88bb23ec",
-            "Value": {
-                "id": "66207345-dddc-4976-b650-7e0376c213fb",
-                "resourcePath": "datafiles_yy\\wiiu\\012.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "a7d04e50-a664-4369-8838-f1f1a8ec0c1f",
-            "Value": {
-                "id": "d3177ab6-db23-44a8-ad61-9f6ca5268675",
-                "resourcePath": "datafiles_yy\\switch\\065.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "a80e7867-f234-46e6-8b3e-8bd7a1d7d769",
-            "Value": {
-                "id": "e6e78242-ecfc-4cf1-a14e-1a6e505b97db",
-                "resourcePath": "datafiles_yy\\switch\\071.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "a8378782-12b6-44ca-a226-922f2a700fca",
-            "Value": {
-                "id": "ffe0c229-7ae2-45ff-a931-bd92915f4f43",
-                "resourcePath": "datafiles_yy\\wiiu\\074.jpg.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
@@ -1559,202 +231,10 @@
             }
         },
         {
-            "Key": "a9535ebd-91ab-452d-8b0b-5f902f1ab93e",
-            "Value": {
-                "id": "575b57da-b5e6-45c4-ab97-59e49b5b46fd",
-                "resourcePath": "datafiles_yy\\wiiu\\titles.ini.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "a9cd9d44-4450-4ed7-b6df-843cb72c2e98",
-            "Value": {
-                "id": "0bbbf0e4-c139-44c2-aaf0-d64680db2543",
-                "resourcePath": "datafiles_yy\\switch\\073.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "ab8e2920-461c-4022-8118-8e1818d9ea82",
-            "Value": {
-                "id": "23a71f1c-af30-4bad-9dc8-b3b98c76f164",
-                "resourcePath": "datafiles_yy\\wiiu\\038.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "adb1442e-da13-4989-ac97-7bbf8a785dcc",
-            "Value": {
-                "id": "aab96e05-6319-4f2c-9c89-ffa397f86dfc",
-                "resourcePath": "datafiles_yy\\wiiu\\065.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "af525c5e-d36f-42d5-bb65-5744a5745e23",
-            "Value": {
-                "id": "a631f15d-b21c-4bf2-a74f-61412422c73b",
-                "resourcePath": "datafiles_yy\\wiiu\\128.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "af937e8c-7857-4e9f-ac37-91cc1cf4e3a8",
-            "Value": {
-                "id": "1edb7cec-aa6a-4361-970b-c894b7d9c984",
-                "resourcePath": "datafiles_yy\\switch\\018.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "afb5c9d6-23ee-43e7-b435-dbb00b8a83cc",
-            "Value": {
-                "id": "2decbf64-3b34-40c0-915a-008e5d88d8ce",
-                "resourcePath": "datafiles_yy\\wiiu\\004.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "b09dbb8d-48f1-437e-98a3-d2e0db3a2326",
-            "Value": {
-                "id": "646ce7fd-9ac8-43b3-920d-685f91d79273",
-                "resourcePath": "datafiles_yy\\switch\\012.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "b137d9c5-19f8-45de-aee9-c8df79e85270",
-            "Value": {
-                "id": "9174345c-4e31-4687-b837-ce3612267341",
-                "resourcePath": "datafiles_yy\\switch\\082.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "b2e8e761-ce37-4e9c-9711-cef12dd321d7",
-            "Value": {
-                "id": "77192022-f3de-4111-8e23-25b00ce31027",
-                "resourcePath": "datafiles_yy\\switch\\055.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "b42d2c6f-f2bf-486c-8697-58ad42f72b00",
-            "Value": {
-                "id": "0d2d1b58-3298-4ebf-8973-482e3090af0f",
-                "resourcePath": "datafiles_yy\\wiiu\\096.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "b4a28f3a-63ac-486c-94e2-4bf9d29d2616",
-            "Value": {
-                "id": "5092eefe-229c-42ca-b6cd-21cd9e417122",
-                "resourcePath": "datafiles_yy\\wiiu\\018.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "b5157420-6f48-4128-8e84-0aab006fec2a",
-            "Value": {
-                "id": "35c95dda-afec-4937-a933-348f0a52d29a",
-                "resourcePath": "datafiles_yy\\wiiu\\015.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "b682ff26-5b5b-4493-a6a7-ae7bbbad42f2",
-            "Value": {
-                "id": "4aa2e8e6-be7f-417a-9942-3b6ae906b426",
-                "resourcePath": "datafiles_yy\\switch\\015.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "b6ec779f-ce20-4086-894d-218b354dfc83",
-            "Value": {
-                "id": "f1bf22a4-f017-43b8-9edd-568b91149fcd",
-                "resourcePath": "datafiles_yy\\wiiu\\139.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "b881a287-d85e-408d-bd02-536764be1ef1",
-            "Value": {
-                "id": "c8000c75-9042-44b0-8103-563278468d9a",
-                "resourcePath": "datafiles_yy\\wiiu\\005.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "bab6199d-71de-4fd1-9bdd-ae2f0a04b994",
-            "Value": {
-                "id": "fec5c814-df11-4a31-b5a8-2a5a2d9c4667",
-                "resourcePath": "datafiles_yy\\wiiu\\052.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "bc868009-a68f-43e8-9d62-b1622d65cd44",
-            "Value": {
-                "id": "e6d0bdf9-9537-40b3-8018-c63eeb3b6578",
-                "resourcePath": "datafiles_yy\\switch\\084.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "bd3f8884-bee1-4d64-af01-d277cbfe59fe",
-            "Value": {
-                "id": "505bd5e9-44c3-4a73-b25d-803e8309329f",
-                "resourcePath": "datafiles_yy\\changelog.txt.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "bdf9847e-1247-427d-9b8e-c9efc88aa987",
             "Value": {
                 "id": "bc43c57f-5508-488b-a182-3709d85ee8ba",
                 "resourcePath": "datafiles_yy\\discord-rpc.dll.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "bf3bbbef-72eb-457f-9433-319229199a7d",
-            "Value": {
-                "id": "64167e4b-a4dd-43e4-8d45-e66cf6379604",
-                "resourcePath": "datafiles_yy\\wiiu\\009.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "c05355a1-b902-4f0a-9158-42df452b4792",
-            "Value": {
-                "id": "b4dd73e0-bd49-42bc-9c12-8b8525267216",
-                "resourcePath": "datafiles_yy\\wiiu\\002.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "c0eb003d-0fb7-4aed-8f3d-651f201bc06e",
-            "Value": {
-                "id": "ae16eec9-b4b0-4607-aff1-9d45c227a5f5",
-                "resourcePath": "datafiles_yy\\switch\\089.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "c147b5db-e46f-49b9-9342-ed00f766c0e2",
-            "Value": {
-                "id": "0ddf44f0-7f48-4292-8eaf-f02222cb954f",
-                "resourcePath": "datafiles_yy\\wiiu\\045.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "c25fd875-c22d-4cea-bbc8-bccd13cbcb2b",
-            "Value": {
-                "id": "2b1b1631-b29b-478f-9d01-79a922b40b33",
-                "resourcePath": "datafiles_yy\\switch\\067.jpg.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
@@ -1767,75 +247,11 @@
             }
         },
         {
-            "Key": "c43e7fc5-1b4b-4873-a437-d37f16b785a1",
-            "Value": {
-                "id": "298e7fc5-5bac-40f2-bdbc-df23b04101ee",
-                "resourcePath": "datafiles_yy\\wiiu\\117.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "c4aea82d-ab3a-49a5-9abb-fca18a4a5bc7",
-            "Value": {
-                "id": "a93b0ebd-e640-4299-b67e-51397e0dcd4d",
-                "resourcePath": "datafiles_yy\\switch\\083.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "c6a25645-66ff-4cc8-b5d3-00dfa485c0c5",
-            "Value": {
-                "id": "207d3044-2786-448d-ad8e-b9e2f2a8e141",
-                "resourcePath": "datafiles_yy\\switch\\045.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "c6c19a8f-c66b-4728-9409-655f68249ae3",
-            "Value": {
-                "id": "87a1d059-dc79-4bb2-b37d-1bc3bef7d3ca",
-                "resourcePath": "datafiles_yy\\switch\\090.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "c7fd4aaf-88d1-41de-91cd-fa084bbd11d2",
-            "Value": {
-                "id": "4cf35bcf-e06b-478a-9689-2ce5b25a701e",
-                "resourcePath": "datafiles_yy\\wiiu\\140.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "c873b758-f4b4-403a-9945-d8e5013a704d",
-            "Value": {
-                "id": "9373a730-9974-4d04-89d0-912e61077674",
-                "resourcePath": "datafiles_yy\\wiiu\\035.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "c88de2dd-690b-471a-b4ab-d1fb3232c238",
             "Value": {
                 "id": "c2e51c31-94f8-4737-a223-51e9467a8a9e",
                 "resourcePath": "views\\c88de2dd-690b-471a-b4ab-d1fb3232c238.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "cb00a5ba-44f9-444e-bbfa-ab528a2b05d3",
-            "Value": {
-                "id": "2d265286-9429-40b9-b126-39018e7c8ad7",
-                "resourcePath": "datafiles_yy\\switch\\034.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "cb64e870-1b60-4356-948b-f50160149223",
-            "Value": {
-                "id": "87e27a2a-9363-4ce1-bc6e-9f2ea65785b3",
-                "resourcePath": "datafiles_yy\\wiiu\\039.jpg.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -1855,43 +271,11 @@
             }
         },
         {
-            "Key": "cd47a8c7-ab9a-4c5b-b8e6-bd8a60b4a6db",
-            "Value": {
-                "id": "8d43c315-bb87-4c9e-909d-b332f9c0cc9c",
-                "resourcePath": "datafiles_yy\\wiiu\\129.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "cd8e852e-61fe-431c-9b4c-b52f7f3bc5ad",
-            "Value": {
-                "id": "68081c50-652e-4bba-bc1f-e1959d1ba70f",
-                "resourcePath": "datafiles_yy\\wiiu\\066.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "cdf56b10-5d69-49c5-b2e5-411e62df5c33",
-            "Value": {
-                "id": "5a527ea5-1d19-4e53-913f-151d9c6f2559",
-                "resourcePath": "datafiles_yy\\switch\\049.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "ce33c7e5-3aca-491d-9209-361d7664fb31",
             "Value": {
                 "id": "bfde5c76-8a14-41ff-929b-80f9a229ccf2",
                 "resourcePath": "rooms\\rm_program\\rm_program.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "cea8c81d-5a90-42f0-87d9-d58938110cca",
-            "Value": {
-                "id": "bcaaf724-9d8c-4fcc-9488-f76ff94697fa",
-                "resourcePath": "datafiles_yy\\switch\\027.jpg.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -1903,171 +287,11 @@
             }
         },
         {
-            "Key": "d2583ee5-f257-4cee-a9a4-988fa1bdb568",
-            "Value": {
-                "id": "20a83505-3f95-443d-901e-cb32446a6e55",
-                "resourcePath": "views\\d2583ee5-f257-4cee-a9a4-988fa1bdb568.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "d463caa1-a210-479a-97ed-3e175b4c17a1",
-            "Value": {
-                "id": "ac82b697-c22e-4060-94e6-fcf8ff0d2095",
-                "resourcePath": "datafiles_yy\\wiiu\\147.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "d4778760-c136-4c87-b829-e0fc63207cde",
-            "Value": {
-                "id": "33e4a84a-deac-43e5-9990-7fb648626c90",
-                "resourcePath": "datafiles_yy\\wiiu\\048.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "d4c932f0-18fa-4a03-842b-064080f3c0ed",
-            "Value": {
-                "id": "97c0466a-2736-4ceb-8afa-5423d28420c9",
-                "resourcePath": "datafiles_yy\\wiiu\\016.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "d586d42c-a283-4acb-a5d1-ba29d5c7a326",
-            "Value": {
-                "id": "07c8355b-17ab-4d73-81de-d4e78e5ba7f5",
-                "resourcePath": "datafiles_yy\\switch\\085.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "d722a932-d1f2-4737-918d-5b178eb9b633",
-            "Value": {
-                "id": "08f775d7-a6d3-4d86-9630-299f93a9c76d",
-                "resourcePath": "datafiles_yy\\switch\\010.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "d7d1b732-8e8f-4016-b227-fbade55ef389",
             "Value": {
                 "id": "df595f0f-a0bf-47f4-bfd2-592841250120",
                 "resourcePath": "views\\d7d1b732-8e8f-4016-b227-fbade55ef389.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "d810cfc8-22aa-4754-a224-aa5a34c97e90",
-            "Value": {
-                "id": "4d848c38-16e9-4dfc-9a06-c59b0edb5f1f",
-                "resourcePath": "datafiles_yy\\wiiu\\085.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "d8349a15-2d23-4134-8352-6c1b3688a59a",
-            "Value": {
-                "id": "333fc562-b541-486d-a53c-d7f54a3efc54",
-                "resourcePath": "datafiles_yy\\switch\\009.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "d91f7fe2-6995-45a7-8725-4e6ca84b2eb2",
-            "Value": {
-                "id": "c61fbd33-0a20-4c34-a1ac-c1fc6a5b2773",
-                "resourcePath": "datafiles_yy\\switch\\088.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "d9898108-1103-474b-b373-edf656d8d1f7",
-            "Value": {
-                "id": "e2304ff4-6154-4ba7-9175-0e85e4eec92a",
-                "resourcePath": "datafiles_yy\\switch\\066.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "d98cf156-29ef-46e4-8f9a-172b459576c6",
-            "Value": {
-                "id": "0ab159aa-f4c8-449c-b155-8fafbd759082",
-                "resourcePath": "datafiles_yy\\wiiu\\058.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "dd92123e-a170-42fd-926d-85d9604ff737",
-            "Value": {
-                "id": "932001e8-2170-4c5e-9f69-2f966e8db664",
-                "resourcePath": "datafiles_yy\\switch\\039.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "de3e5833-e818-4087-a075-db665948a640",
-            "Value": {
-                "id": "2ffae6e4-e3a3-49cd-b0a7-6cf5c1ee4553",
-                "resourcePath": "datafiles_yy\\wiiu\\081.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "dea4f8d9-cb84-4e30-a34f-3e543f5b16e2",
-            "Value": {
-                "id": "e070e184-0ac9-41c6-b90f-76ae616007cd",
-                "resourcePath": "datafiles_yy\\switch\\007.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "dea655d7-2f51-42e2-85a1-efe6681585b4",
-            "Value": {
-                "id": "d430d6c7-909e-4906-bfb1-4b404aeb5b7f",
-                "resourcePath": "datafiles_yy\\switch\\069.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "dea6ca80-3fce-4167-a507-3a215c99ef8e",
-            "Value": {
-                "id": "8a2e1f09-7ac1-4af6-9384-4ad12ecd2008",
-                "resourcePath": "datafiles_yy\\switch\\006.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "e07e0018-c24c-458e-a099-a08e2e25cde0",
-            "Value": {
-                "id": "a6f1a682-010c-4e83-b152-4615e826d35c",
-                "resourcePath": "datafiles_yy\\wiiu\\040.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "e16d13d2-48f7-4707-b881-4adf13d629b2",
-            "Value": {
-                "id": "88b3386a-385c-431f-be7d-648663ed9706",
-                "resourcePath": "datafiles_yy\\wiiu\\141.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "e173018a-548c-4cd2-822f-1314df7d6625",
-            "Value": {
-                "id": "4915c881-d809-4091-ac2c-24c4ef084527",
-                "resourcePath": "datafiles_yy\\wiiu\\112.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "e2ccc3b3-fdf1-4a39-b491-323e74932535",
-            "Value": {
-                "id": "4a1b4f6c-2b9c-4744-be9c-49f0cffb4dfa",
-                "resourcePath": "datafiles_yy\\wiiu\\086.jpg.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -2079,115 +303,11 @@
             }
         },
         {
-            "Key": "e7dd037d-acb2-406c-a48b-a541788b10ff",
+            "Key": "ea4df86d-3cc4-4fbc-9021-7e483cb6b08f",
             "Value": {
-                "id": "c7c60fa5-7ada-466e-85b3-68a6071c4bbc",
-                "resourcePath": "datafiles_yy\\wiiu\\053.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "e809e082-eaa0-4a2d-9901-625b63e6d5a7",
-            "Value": {
-                "id": "c76ad7b8-6c32-46d1-8e38-66a9ff32a61e",
-                "resourcePath": "datafiles_yy\\wiiu\\051.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "e91efb04-0857-4de4-8fc2-0b294428f388",
-            "Value": {
-                "id": "001735f5-30f0-4f32-bb77-51162bed40bc",
-                "resourcePath": "datafiles_yy\\switch\\017.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "eba586f3-eeb7-44e2-ae93-d0451e52b9bc",
-            "Value": {
-                "id": "dcae437b-72fe-43e9-b180-fbb46593d323",
-                "resourcePath": "datafiles_yy\\wiiu\\115.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "ec28760d-649f-4334-816f-3a41d98ede41",
-            "Value": {
-                "id": "0b60ed7d-917a-4642-81c9-175325a571b7",
-                "resourcePath": "datafiles_yy\\wiiu\\110.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "ec457625-b1fe-4d49-a506-4f070311ec56",
-            "Value": {
-                "id": "9ca96937-e225-4565-a1b9-e178c12e4fbd",
-                "resourcePath": "datafiles_yy\\switch\\072.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "ed667796-e866-4c77-9108-bf34ca9a1448",
-            "Value": {
-                "id": "82a638e1-b417-4385-bc9c-802bee3ddeab",
-                "resourcePath": "datafiles_yy\\wiiu\\107.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "edba0757-0af2-42b9-b898-ceab77ce95b8",
-            "Value": {
-                "id": "5f0dc10a-13a1-4718-8f6b-16b49585cb1d",
-                "resourcePath": "datafiles_yy\\wiiu\\088.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "edec7235-777c-4d23-bd03-1fc269da14fb",
-            "Value": {
-                "id": "ac663d76-01ac-4793-b62c-34d28cd57ed5",
-                "resourcePath": "datafiles_yy\\wiiu\\006.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "eecd41a0-93a7-4016-aa37-88c3ed6a0f90",
-            "Value": {
-                "id": "8c9c0e17-98cd-45df-8e0b-1a01a7cb106f",
-                "resourcePath": "datafiles_yy\\wiiu\\092.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "f02eea36-20b0-484f-bc54-0f1a480b860e",
-            "Value": {
-                "id": "c13e016c-aaef-4c73-b64d-4e2503f7f6e5",
-                "resourcePath": "datafiles_yy\\wiiu\\091.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "f053b137-0d13-4fde-b465-56d4ea9d8313",
-            "Value": {
-                "id": "3bd72f14-eb3d-439d-b9ad-19f3408201ec",
-                "resourcePath": "datafiles_yy\\switch\\051.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "f0e7f4cd-b8d4-4eae-8e5c-48e710d26c8d",
-            "Value": {
-                "id": "616ca9b1-3f6d-4f6b-8a6b-b56d8b9ec494",
-                "resourcePath": "datafiles_yy\\wiiu\\076.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "f15ff642-55e9-433e-8c96-c4648dc91aa6",
-            "Value": {
-                "id": "37f67157-a352-458b-a086-693563d9e677",
-                "resourcePath": "datafiles_yy\\wiiu\\099.jpg.yy",
-                "resourceType": "GMIncludedFile"
+                "id": "9a028d52-b350-4fef-a950-878953e24dd5",
+                "resourcePath": "scripts\\digits_to_friendcode\\digits_to_friendcode.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -2213,83 +333,11 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
-        },
-        {
-            "Key": "f49b2b31-8a90-40b6-a01b-689c01a316f2",
-            "Value": {
-                "id": "5e96a928-5f5c-4e79-9219-53fc28573a32",
-                "resourcePath": "datafiles_yy\\wiiu\\077.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "f579d528-29a6-4884-97c1-afa95093ec1c",
-            "Value": {
-                "id": "c3688deb-7688-4773-81ca-891b74a30c9f",
-                "resourcePath": "datafiles_yy\\wiiu\\082.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "f7f3852e-6331-46b0-9629-beaf2e4dbacd",
-            "Value": {
-                "id": "900965a9-d483-4e18-9909-89c334d1edba",
-                "resourcePath": "datafiles_yy\\wiiu\\126.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "f8335c21-76ab-4509-ae55-6bde2e3a756e",
-            "Value": {
-                "id": "83abf1c4-3d07-4b1c-a6ee-c7ca87cde24f",
-                "resourcePath": "datafiles_yy\\wiiu\\109.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "fabd1d11-8ecc-4e2f-9e95-c47f568a3335",
-            "Value": {
-                "id": "2a75f898-15c9-4e2e-a3c9-a3a8e20e34f6",
-                "resourcePath": "datafiles_yy\\wiiu\\013.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "fbee3539-8a43-4f44-b6f1-83408dfaf691",
-            "Value": {
-                "id": "dfb8867c-bf70-4dfa-b08d-c643401034a3",
-                "resourcePath": "datafiles_yy\\switch\\060.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "fbf03be7-a7b0-45d7-a068-7c71c1747a98",
-            "Value": {
-                "id": "fb796864-5dd5-4ad2-a3df-563f3d730d3a",
-                "resourcePath": "datafiles_yy\\switch\\081.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "fd228f2f-74d2-4cb6-8789-235c33aa324c",
-            "Value": {
-                "id": "691de1d7-a5f6-4f08-8f13-21fd7fdb373b",
-                "resourcePath": "datafiles_yy\\switch\\002.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "fdce5550-0a9a-419d-b846-51bd0eaba4dc",
-            "Value": {
-                "id": "d786f7b5-7836-4c32-9ba1-1a948fcc3048",
-                "resourcePath": "datafiles_yy\\switch\\022.jpg.yy",
-                "resourceType": "GMIncludedFile"
-            }
         }
     ],
     "script_order": [
         "65e7185f-71bc-4430-b2a8-27b755766e86",
-        "a566862c-1e57-492e-ba04-4a3ba07364a9"
+        "ea4df86d-3cc4-4fbc-9021-7e483cb6b08f"
     ],
     "tutorial": ""
 }

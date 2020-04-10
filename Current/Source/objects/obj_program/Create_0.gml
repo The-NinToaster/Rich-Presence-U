@@ -1,6 +1,6 @@
 /// @description Boot
-#macro folder working_directory
-#macro version "0.4.3"
+#macro folder game_save_id
+#macro version "0.5.0"
 
 //Animações e elementos gráficos
 credits_display = 0;
@@ -24,7 +24,7 @@ typing_customstatus = 0; //64 digitos
 typing_userid = 0; //12~16 digitos
 
 //Detalhes (Status) predefinidos
-ini_open(folder+"preset_details.ini");
+ini_open(working_directory+"preset_details.ini");
 status_1p = ini_read_string("RPU_DETAILS","SINGLPLAYER","Single Player");
 status_2p = ini_read_string("RPU_DETAILS","MULTIPLAYER","Multiplayer");
 status_on = ini_read_string("RPU_DETAILS","ONLINE"," (Online)");

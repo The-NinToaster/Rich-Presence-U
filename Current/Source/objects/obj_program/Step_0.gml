@@ -38,11 +38,11 @@ if(mouse_check_button_released(mb_any))
 	typing_userid = 0;
 
 	//Creditos
-	if(point_in_rectangle(mouse_x,mouse_y,399,19,399+23,19+23))
+	if(point_in_rectangle(mouse_x,mouse_y,446,19,446+23,19+23))
 		credits_display = 1;
 	
-	//Plataforma (Wii U / Switch)
-	if(point_in_rectangle(mouse_x,mouse_y,432,20,432+101,20+21)){
+	//Plataforma (Wii U / Switch / 3DS)
+	if(point_in_rectangle(mouse_x,mouse_y,480,20,480+53,20+21)){
 		
 		//Salvar definições
 		event_user(1);
@@ -101,7 +101,7 @@ if(mouse_check_button_released(mb_any))
 			global.rpc_statusmode = 2;
 	}
 
-	//Nintendo Network ID / Switch Friend Code
+	//Nintendo Network ID / Friend Code
 	if(point_in_rectangle(mouse_x,mouse_y,21,206,21+355,206+38)){
 		
 		//Começar digitar user id
@@ -165,15 +165,17 @@ if(typing_customstatus == 1){
 	global.rpc_statuscustom = keyboard_string;
 }
 
-//Digitar user id
+//Digitar identificação
 if(typing_userid == 1){
 
-	//Nintendo Network ID / Switch Friend Code
-	if(global.rpc_platform == 0)
-		keyboard_string = string_copy(keyboard_string,0,16);
+	//Nintendo Network ID / Friend Code
+	if(global.rpc_platform == 1)
+		keyboard_string = string_copy(string_digits(keyboard_string),0,12); //3DS FC
+	else if(global.rpc_platform == 2)
+		keyboard_string = string_copy(string_digits(keyboard_string),0,12); //Switch FC
 	else
-		keyboard_string = string_copy(string_digits(keyboard_string),0,12);
-	
+		keyboard_string = string_copy(keyboard_string,0,16); //NNID
+
 	global.rpc_userid = keyboard_string;
 }
 
