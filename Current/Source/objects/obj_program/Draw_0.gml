@@ -2,32 +2,19 @@
 draw_set_font(fnt_default);
 
 //Cor de fundo
-if(global.rpc_platform == 0){
-	
-	//Wii U
-	window_set_caption("Rich Presence U - Wii U");
-	if(uicolor_animation > 0.05)
-		uicolor_animation -= 0.05;
-	else
-		uicolor_animation = 0;	
-}
-else{
-	
-	//Nintendo Switch
-	window_set_caption("Rich Presence U - Nintendo Switch");
-	if(uicolor_animation < 1-0.05)
-		uicolor_animation += 0.05;
-	else
-		uicolor_animation = 1;
-}
-var col1 = $C69400;
-var col2 = $1A00F5;
-draw_clear(merge_color(col1,col2,uicolor_animation));
+uicolor_animation += (1-uicolor_animation)/8;
+draw_set_color(merge_color(platform_color[uicolor_a],platform_color[uicolor_b],uicolor_animation));
+draw_rectangle(0,0,720,280,0);
+draw_set_color(c_white);
 
 #region Layout Principal
 
 //Base
 draw_sprite(spr_layout,global.rpc_platform,0,0);
+
+//Atualização
+if(global.update_version > version)
+	draw_sprite(spr_appupdate,0,303,19);
 
 //Status (Custom)
 var _custom;
@@ -113,9 +100,9 @@ else{
 
 	//Formatação
 	if(global.rpc_platform == 1)
-		_userid = digits_to_friendcode(global.rpc_userid); //3DS FC
-	else if(global.rpc_platform == 2)
 		_userid = "SW-"+digits_to_friendcode(global.rpc_userid); //Switch FC
+	else if(global.rpc_platform == 2)
+		_userid = digits_to_friendcode(global.rpc_userid); //3DS FC
 	else
 		_userid =  global.rpc_userid; //NNID
 }
@@ -155,8 +142,17 @@ draw_sprite_ext(spr_rpcupdated,_updated,546,186,1,1,0,c_white,updaterpc_animatio
 #region Lista de jogos
 
 //Icone
-if(sprite_exists(spr_gameicon))
-	draw_sprite_stretched(spr_gameicon,0,553,27,139,139);
+if(iconloading_display == 1){
+
+	//Loading...
+	iconloading_animation -= 8;
+	draw_sprite_ext(spr_gameicon_loading,0,553+(139/2),27+(139/2),1,1,iconloading_animation,merge_color(platform_color[uicolor_a],platform_color[uicolor_b],uicolor_animation),1);
+}
+else{
+	
+	if(sprite_exists(game_icon))
+		draw_sprite_stretched(game_icon,0,553,27,139,139);
+}
 
 //SE estiver digitando...
 if(typing_gametitle != 0)
@@ -213,7 +209,9 @@ if(typing_gametitle != 0)
 			//Carregar título, icone e gerar novo timestamp
 			global.rpc_gameindex = _queue_pos[0];
 			game_titlecurrent = _queue_title[0];
-			sprite_replace(spr_gameicon,folder+target_tiltes+"\\"+string_add_zeros(_queue_pos[0],3)+".jpg",0,0,0,0,0);
+			iconloading_display = 1;
+			if(sprite_exists(game_icon)) sprite_delete(game_icon);
+			game_icon = sprite_add(global.redirect_plaforms+target_titles+"/"+string_add_zeros(_queue_pos[j],3)+".png",0,0,0,0,0);
 			timestamp_saved = discord_get_timestamp_now();
 			
 			//Limpar texto digitado
@@ -254,7 +252,9 @@ if(typing_gametitle != 0)
 				//Carregar título, icone e gerar novo timestamp
 				global.rpc_gameindex = _queue_pos[j];
 				game_titlecurrent = _queue_title[j];
-				sprite_replace(spr_gameicon,folder+target_tiltes+"\\"+string_add_zeros(_queue_pos[j],3)+".jpg",0,0,0,0,0);
+				iconloading_display = 1;
+				if(sprite_exists(game_icon)) sprite_delete(game_icon);
+				game_icon = sprite_add(global.redirect_plaforms+target_titles+"/"+string_add_zeros(_queue_pos[j],3)+".png",0,0,0,0,0);
 				timestamp_saved = discord_get_timestamp_now();
 			
 				//Limpar texto digitado
@@ -288,50 +288,39 @@ else{
 }
 
 #endregion
-#region Creditos
+#region Janela
 
-//Transição
-if(credits_display == 0){
+//Fundo
+draw_set_color(merge_color(platform_color[uicolor_a],platform_color[uicolor_b],uicolor_animation));
+draw_set_alpha(clamp(credits_animation+platforms_animation,0,1));
+draw_rectangle(0,0,720,280,0);
+draw_set_color(c_white);
+draw_set_alpha(1);
 	
-	//Fechar
-	if(credits_animation > 0.10)
-		credits_animation -= 0.10;
-	else
-		credits_animation = 0;	
-}
+//Creditos
+if(credits_display != 0)
+	credits_animation += (1-credits_animation)/8;
 else{
 	
-	//Abrir
-	if(credits_animation < 1)
-		credits_animation += (1-credits_animation)/10;
+	if(credits_animation > 0)
+		credits_animation -= 0.05;
 	else
-		credits_animation = 1;
-	
-	//Controles
-	if(mouse_check_button_pressed(mb_any)){
-		
-		//Abrir servidor no Discord
-		if(point_in_rectangle(mouse_x,mouse_y,129,14,129+433,14+92))
-			url_open("https://ninstars.blogspot.com/");
-	
-		//Fechar
-		if(point_in_rectangle(mouse_x,mouse_y,665,22,665+32,22+32))
-			credits_display = 0;
-	}
+		credits_animation = 0;
 }
 
-//SE animação estiver se tornando vísivel...
-if(credits_animation > 0){
+draw_sprite(spr_credits,0,0,280+(-280*credits_animation));
+
+//Plataformas
+if(platforms_display != 0)
+	platforms_animation += (1-platforms_animation)/8;
+else{
 	
-	//Fundo
-	draw_set_color(merge_color(col1,col2,uicolor_animation));
-	draw_set_alpha(credits_animation);
-	draw_rectangle(0,0,720,280,0);
-	draw_set_color(c_white);
-	draw_set_alpha(1);
-	
-	//Texto
-	draw_sprite(spr_credits,0,0,280+(-280*credits_animation));
+	if(platforms_animation > 0)
+		platforms_animation -= 0.05;
+	else
+		platforms_animation = 0;
 }
+
+draw_sprite(spr_platforms,0,0,280+(-280*platforms_animation));
 
 #endregion

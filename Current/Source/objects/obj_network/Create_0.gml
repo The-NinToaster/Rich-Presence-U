@@ -1,0 +1,32 @@
+/// @description Checar networking
+#macro version 50
+#macro folder game_save_id
+if!(os_is_network_connected()){
+	
+	show_message("You need to be connected to the internet in order to use this application.");
+	game_end();
+}
+else{
+
+	network_file = noone;
+	network_platform = noone;
+	platform_index = 0;
+	
+	if(file_exists(folder+"redirect.cfg")){
+
+	    //Redirecionamento customizado (Prioritario)
+	    ini_open(folder+"redirect.cfg");
+	    global.redirect_plaforms = ini_read_string("REDIRECT","platforms","hpps://");
+	    global.redirect_about = ini_read_string("REDIRECT","about","hpps://");
+		global.update_version = ini_read_real("UPDATE","version",version);
+		global.update_mandatory = ini_read_real("UPDATE","mandatory",0);
+		global.update_download = ini_read_string("UPDATE","download","hpps://");
+	    ini_close();
+		
+		//Baixar plataformas
+		event_user(0);
+	}
+	//Buscar por redirecionamento dinamico mais recente
+	else
+		network_file = http_get_file("https://pastebin.com/raw/j7Zg8nvU",folder+"dynamic.ini");
+}

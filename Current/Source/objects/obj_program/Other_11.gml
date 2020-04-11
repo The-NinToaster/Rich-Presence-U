@@ -1,15 +1,15 @@
 /// @description Definições | Salvar
-ini_open(folder+"usersettings.ini")
+ini_open(folder+"rpc_settings.ini")
 ini_write_real("RPC_GLOBAL","platform",global.rpc_platform);
 if(global.rpc_platform == 1){
 	
 	//Nintendo Switch
-	ini_write_real("RPC_NS","gameindex",global.rpc_gameindex);
-	ini_write_string("RPC_NS","nintendoid",global.rpc_userid);
-	ini_write_real("RPC_NS","elapsedtime",global.rpc_elapsedtime);
-	ini_write_real("RPC_NS","status_singlemulti",global.rpc_statusmode);
-	ini_write_real("RPC_NS","status_online",global.rpc_statusonline);
-	ini_write_string("RPC_NS","status_custom",global.rpc_statuscustom);
+	ini_write_real("RPC_SWITCH","gameindex",global.rpc_gameindex);
+	ini_write_string("RPC_SWITCH","nintendoid",global.rpc_userid);
+	ini_write_real("RPC_SWITCH","elapsedtime",global.rpc_elapsedtime);
+	ini_write_real("RPC_SWITCH","status_singlemulti",global.rpc_statusmode);
+	ini_write_real("RPC_SWITCH","status_online",global.rpc_statusonline);
+	ini_write_string("RPC_SWITCH","status_custom",global.rpc_statuscustom);
 }
 else if(global.rpc_platform == 2){
 

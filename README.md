@@ -11,9 +11,9 @@
 
 <p align="center"><img alt="Logo" src="https://github.com/MarioSilvaGH/Rich-Presence-U/raw/master/Assets/logo_monod.png" width="90%"></p>
 
-This GUI application allows you to display **Wii U** and **Nintendo Switch** games on *Discord* with predefined or custom state. There are over 100 softwares from both platforms included. 
+This GUI application allows you to display **Wii U**, **Nintendo Switch** and **Nintendo 3DS** games on *Discord* with predefined and custom state. There are over 300 titles from all three platforms.
 
-**NOTE:** This application does not use nor support any console modifications, it needs manual setup in order to display your games.
+**NOTE:** This application don't use nor support any console modifications, it needs manual setup in order to display your games.
 
 ## <div align="center">Demonstration</div>
 
@@ -24,7 +24,7 @@ This GUI application allows you to display **Wii U** and **Nintendo Switch** gam
 ### <div align="center">Downloads</div>
 
 #### Rich Presence U
-Version: **0.4.3** | ``31/03/2020``
+Version: **0.5.0** | ``11/04/2020``
 
 - :ballot_box_with_check:  Rich Presence U (32bit)
 - :ballot_box_with_check:  Changelog
@@ -43,8 +43,7 @@ Mario Silva (Nin★)
 **RPC Wrapper**  
 Aouab
 
-**Wii U Icons**  
+**Titles / Icons**  
 Mario Silva (Nin★)  
-
-**Nintendo Switch Icons**  
 Majesty  
+Sneethan

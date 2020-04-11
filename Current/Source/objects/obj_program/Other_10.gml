@@ -1,15 +1,12 @@
 /// @description Carregar lista de jogos
 
 //Plataforma
-if(global.rpc_platform == 1)
-	target_tiltes = "switch";
-else if(global.rpc_platform == 2)
-	target_titles = "3ds";
-else
-	target_tiltes = "wiiu";
+if(global.rpc_platform == 1) target_titles = "switch";
+else if(global.rpc_platform == 2) target_titles = "3ds";
+else target_titles = "wiiu";
 
 //Carregar dados de títulos
-ini_open(folder+target_tiltes+"\\titles.ini");
+ini_open(folder+target_titles+".ini");
 gamelist_clientid = ini_read_string("RPU_CLIENT","CLIENT_ID",""); //Client do RPC
 gamelist_total = 0;
 for(var i = 0; i < 156; i++){
@@ -32,5 +29,7 @@ if(global.rpc_gameindex > gamelist_total-1)
 else
 	game_titlecurrent = gamelist_title[global.rpc_gameindex];
 
-//Carregar icone do jogo selecionado
-sprite_replace(spr_gameicon,folder+target_tiltes+"\\"+string_add_zeros(global.rpc_gameindex,3)+".jpg",0,0,0,0,0);
+//Baixar icone do jogo selecionado
+iconloading_display = 1;
+if(sprite_exists(game_icon)) sprite_delete(game_icon);
+game_icon = sprite_add(global.redirect_plaforms+target_titles+"/"+string_add_zeros(global.rpc_gameindex,3)+".png",0,0,0,0,0);

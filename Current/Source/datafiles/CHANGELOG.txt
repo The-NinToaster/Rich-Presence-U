@@ -1,0 +1,4 @@
+- Updated title 123 (Wii U)
+- Updated title 029 (Switch)
+- Higher quality icons for Wii U titles
+- Suppor

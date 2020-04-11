@@ -111,6 +111,22 @@
             }
         },
         {
+            "Key": "3c54c507-c00b-4b6a-984a-cd34e33d2325",
+            "Value": {
+                "id": "6ab607e0-ec3b-4b83-b8f2-b1d1fecb7a1d",
+                "resourcePath": "rooms\\rm_network\\rm_network.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "41bc1abf-52ea-4588-b2d6-9f96923eef2a",
+            "Value": {
+                "id": "c2817023-cbdd-41d8-9149-8a268392d441",
+                "resourcePath": "objects\\obj_network\\obj_network.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "438fcf5a-65a8-4039-9d53-6b3d67621fca",
             "Value": {
                 "id": "cb7a0b5f-c403-4eac-af5e-4412b533d86d",
@@ -124,6 +140,14 @@
                 "id": "2f6f59c4-5b45-4a22-a59d-84266fe310f4",
                 "resourcePath": "views\\4f6ecb62-dd59-4c4c-8dae-99e4659ee935.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5199b0a9-e542-4f87-b0ca-7efb7e506f69",
+            "Value": {
+                "id": "948af66a-d38c-4068-b6bb-58b8ea59d802",
+                "resourcePath": "sprites\\spr_loading\\spr_loading.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -199,6 +223,14 @@
             }
         },
         {
+            "Key": "90b9be1d-ce28-4586-bb61-7a31e30381fc",
+            "Value": {
+                "id": "d1dd3713-610a-439c-afa8-36afa658c4ed",
+                "resourcePath": "sprites\\spr_gameicon_loading\\spr_gameicon_loading.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "99681968-60a4-4cb5-8ab7-70e3b3500279",
             "Value": {
                 "id": "29192572-9728-486e-ac07-42e9b6928535",
@@ -259,6 +291,14 @@
             "Value": {
                 "id": "2e81503d-3569-45f9-abbc-ff323b9e5fa3",
                 "resourcePath": "datafiles_yy\\preset_details.ini.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "cc8d0fcd-d92f-4dad-8d3e-d51aedc01775",
+            "Value": {
+                "id": "2e22d343-618a-4882-96a4-ffb78501f801",
+                "resourcePath": "datafiles_yy\\CHANGELOG.txt.yy",
                 "resourceType": "GMIncludedFile"
             }
         },

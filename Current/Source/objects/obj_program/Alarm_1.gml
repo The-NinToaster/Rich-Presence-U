@@ -26,7 +26,7 @@ if(richpresence_on == 1){
 	}
 	else{
 
-		show_message("CLIENT_ID is incorrect or missing, make sure that the 'titles.ini' is located on the specified platform path. ('wiiu', 'switch'...)")
+		show_message("The client is not available, close the application and try again later.");
 		exit;
 	}
 }
@@ -84,18 +84,20 @@ else{
 
 //Icone grande (Jogo) + Versão
 discord_set_image_large(string_add_zeros(global.rpc_gameindex,3));
-discord_set_text_large("Rich Presence U - "+string(version));
+discord_set_text_large("Rich Presence U - 0.5.0");
 
 //Icone pequeno (User ID)
 if(global.rpc_userid != ""){
 	
 	discord_set_image_small("nnid");
 	
-	//Formatação (Nintendo Network ID / Switch Friend Code)
-	if(global.rpc_platform == 0)
-		discord_set_text_small(global.rpc_userid);
+	//Formatação
+	if(global.rpc_platform == 1)
+		discord_set_text_small("SW-"+digits_to_friendcode(global.rpc_userid)); //Switch FC
+	else if(global.rpc_platform == 2)
+		discord_set_text_small(digits_to_friendcode(global.rpc_userid)); //3DS FC
 	else
-		discord_set_text_small(digits_to_switchfc(global.rpc_userid));
+		discord_set_text_small(global.rpc_userid); //NNID
 }
 else{
 
