@@ -24,7 +24,7 @@ This GUI application allows you to display **Wii U**, **Nintendo Switch** and **
 ### <div align="center">Downloads</div>
 
 #### Rich Presence U
-Version: **0.5.0** | ``11/04/2020``
+Version: **0.5.1** | ``12/04/2020``
 
 - :ballot_box_with_check:  Rich Presence U (32bit)
 - :ballot_box_with_check:  Changelog
