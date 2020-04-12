@@ -206,13 +206,18 @@ if(typing_gametitle != 0)
 		//Selecionar o primeiro (atalho)
 		if(keyboard_check_pressed(vk_enter)){
 			
-			//Carregar título, icone e gerar novo timestamp
+			//Carregar título
 			global.rpc_gameindex = _queue_pos[0];
 			game_titlecurrent = _queue_title[0];
+			
+			//Carregar icone
 			iconloading_display = 1;
-			if(sprite_exists(game_icon)) sprite_delete(game_icon);
-			game_icon = sprite_add(global.redirect_plaforms+target_titles+"/"+string_add_zeros(_queue_pos[j],3)+".png",0,0,0,0,0);
-			timestamp_saved = discord_get_timestamp_now();
+			if(sprite_exists(game_icon))
+				sprite_delete(game_icon);
+			game_icon = sprite_add(global.redirect_plaforms+target_titles+"/"+string_add_zeros(_queue_pos[0],3)+".png",0,0,0,0,0);
+			
+			//Gerar novo timestamp
+			timestamp_getnew = 1;
 			
 			//Limpar texto digitado
 			keyboard_string = "";
@@ -249,13 +254,18 @@ if(typing_gametitle != 0)
 			if(mouse_check_button_released(mb_any))
 			&&(typing_gametitle == 1){
 				
-				//Carregar título, icone e gerar novo timestamp
+				//Carregar título
 				global.rpc_gameindex = _queue_pos[j];
 				game_titlecurrent = _queue_title[j];
+			
+				//Carregar icone
 				iconloading_display = 1;
-				if(sprite_exists(game_icon)) sprite_delete(game_icon);
+				if(sprite_exists(game_icon))
+					sprite_delete(game_icon);
 				game_icon = sprite_add(global.redirect_plaforms+target_titles+"/"+string_add_zeros(_queue_pos[j],3)+".png",0,0,0,0,0);
-				timestamp_saved = discord_get_timestamp_now();
+			
+				//Gerar novo timestamp
+				timestamp_getnew = 1;
 			
 				//Limpar texto digitado
 				keyboard_string = "";

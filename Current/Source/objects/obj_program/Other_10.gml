@@ -31,5 +31,10 @@ else
 
 //Baixar icone do jogo selecionado
 iconloading_display = 1;
-if(sprite_exists(game_icon)) sprite_delete(game_icon);
+if(sprite_exists(game_icon))
+	sprite_delete(game_icon);
 game_icon = sprite_add(global.redirect_plaforms+target_titles+"/"+string_add_zeros(global.rpc_gameindex,3)+".png",0,0,0,0,0);
+
+//Gerar novo timestamp
+timestamp_saved = discord_get_timestamp_now();
+timestamp_getnew = 1;

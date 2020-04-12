@@ -33,6 +33,14 @@ if(richpresence_on == 1){
 else
 	exit;
 
+
+//Gerar novo timestamp se necessário
+if(timestamp_getnew == 1){
+	
+	timestamp_saved = discord_get_timestamp_now();
+	timestamp_getnew = 0;
+}
+
 //Status predefinido
 if(gamelist_preset[global.rpc_gameindex] == "[DEFAULT]"){
 	
@@ -84,7 +92,7 @@ else{
 
 //Icone grande (Jogo) + Versão
 discord_set_image_large(string_add_zeros(global.rpc_gameindex,3));
-discord_set_text_large("Rich Presence U - 0.5.0");
+discord_set_text_large("Rich Presence U - "+version_stg);
 
 //Icone pequeno (User ID)
 if(global.rpc_userid != ""){

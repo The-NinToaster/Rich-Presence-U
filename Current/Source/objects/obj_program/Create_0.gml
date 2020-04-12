@@ -29,8 +29,8 @@ alarm[0] = 15;
 
 //Cores
 platform_color[0] = $C69400; //Wii U
-platform_color[1] = $1A00F5; //Switch
-platform_color[2] = $1F1F1F; //3DS
+platform_color[1] = $321BF4; //$1A00F5; //Switch
+platform_color[2] = $2A2A2A; //$1F1F1F; //3DS
 
 //Lembrar definições
 richpresence_on = 1;
@@ -48,6 +48,3 @@ typing_userid = 0; //12~16 digitos
 //Carregar lista de jogos
 game_icon = sprite_duplicate(spr_gameicon);
 event_user(0);
-
-//Gerar novo timestamp
-timestamp_saved = discord_get_timestamp_now();

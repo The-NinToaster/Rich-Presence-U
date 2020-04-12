@@ -32,21 +32,24 @@ if(platforms_display == 1){
 		//Alterar
 		if(_choose > -1){
 			
-			//Transição de cor
-			uicolor_animation = 0;
-			uicolor_a = global.rpc_platform;
-			uicolor_b = _choose;
+			if(_choose != global.rpc_platform){
+				
+				//Transição de cor
+				uicolor_animation = 0;
+				uicolor_a = global.rpc_platform;
+				uicolor_b = _choose;
 			
-			//Salvar definições
-			event_user(1);
+				//Salvar definições
+				event_user(1);
 		
-			//Trocar de plataforma
-			global.rpc_platform = _choose;
+				//Trocar de plataforma
+				global.rpc_platform = _choose;
 		
-			//Carregar novas definições e lista de jogos
-			event_user(2);
-			event_user(0);
-			
+				//Carregar novas definições e lista de jogos
+				event_user(2);
+				event_user(0);
+			}
+	
 			platforms_display = 0;
 		}
 	}

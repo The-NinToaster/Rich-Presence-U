@@ -1,3 +1,10 @@
+[0.5.1] ------------------------
+
+- Changed the dynamic redirection to the application's repository for less access restrictions
+- Fixed timestamp preservation when changing platforms
+- Fixed fatal error when pressing ENTER in the title's search bar
+- Better background color for Switch and 3DS mode
+
 [0.5.0] ------------------------
 
 - Support for Nintendo 3DS: 113 titles
