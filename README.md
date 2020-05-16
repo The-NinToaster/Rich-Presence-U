@@ -11,9 +11,9 @@
 
 <p align="center"><img alt="Logo" src="https://github.com/MarioSilvaGH/Rich-Presence-U/raw/master/Assets/logo_monod.png" width="90%"></p>
 
-This GUI application allows you to display **Wii U**, **Nintendo Switch** and **Nintendo 3DS** games on *Discord* with predefined and custom state. There are over 300 titles from all three platforms.
+This application allows you to display **Wii U**, **Nintendo Switch** and **Nintendo 3DS** games with a custom or predefined description on your *Discord* profile. There are over 300 titles across all three platforms.
 
-**NOTE:** This application don't use nor support any console modifications, it needs manual setup in order to display your games.
+**NOTE:** This application does not use nor support any console modifications by default, it needs manual setup in order to display your games.
 
 ## <div align="center">Demonstration</div>
 
